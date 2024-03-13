@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/freenect_camera/lib/pkgconfig/freenect_camera.pc

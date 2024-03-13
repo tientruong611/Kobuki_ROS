@@ -1,0 +1,6 @@
+ecl_core/ecl_geometry
+/home/vm/catkin_ws/devel/.private/ecl_geometry/cmake.lock /home/vm/catkin_ws/devel/./cmake.lock
+/home/vm/catkin_ws/devel/.private/ecl_geometry/share/ecl_geometry/cmake/ecl_geometryConfig.cmake /home/vm/catkin_ws/devel/share/ecl_geometry/cmake/ecl_geometryConfig.cmake
+/home/vm/catkin_ws/devel/.private/ecl_geometry/share/ecl_geometry/cmake/ecl_geometryConfig-version.cmake /home/vm/catkin_ws/devel/share/ecl_geometry/cmake/ecl_geometryConfig-version.cmake
+/home/vm/catkin_ws/devel/.private/ecl_geometry/lib/libecl_geometry.so /home/vm/catkin_ws/devel/lib/libecl_geometry.so
+/home/vm/catkin_ws/devel/.private/ecl_geometry/lib/pkgconfig/ecl_geometry.pc /home/vm/catkin_ws/devel/lib/pkgconfig/ecl_geometry.pc

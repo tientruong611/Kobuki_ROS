@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/ecl_build/share/ecl_build/cmake/ecl_buildConfig.cmake

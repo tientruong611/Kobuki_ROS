@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/ecl_converters/share/ecl_converters/cmake/ecl_convertersConfig-version.cmake

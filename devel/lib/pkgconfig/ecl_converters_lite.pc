@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/ecl_converters_lite/lib/pkgconfig/ecl_converters_lite.pc

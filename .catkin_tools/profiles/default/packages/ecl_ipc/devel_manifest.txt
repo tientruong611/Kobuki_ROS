@@ -1,0 +1,6 @@
+ecl_core/ecl_ipc
+/home/vm/catkin_ws/devel/.private/ecl_ipc/cmake.lock /home/vm/catkin_ws/devel/./cmake.lock
+/home/vm/catkin_ws/devel/.private/ecl_ipc/share/ecl_ipc/cmake/ecl_ipcConfig-version.cmake /home/vm/catkin_ws/devel/share/ecl_ipc/cmake/ecl_ipcConfig-version.cmake
+/home/vm/catkin_ws/devel/.private/ecl_ipc/share/ecl_ipc/cmake/ecl_ipcConfig.cmake /home/vm/catkin_ws/devel/share/ecl_ipc/cmake/ecl_ipcConfig.cmake
+/home/vm/catkin_ws/devel/.private/ecl_ipc/lib/libecl_ipc.so /home/vm/catkin_ws/devel/lib/libecl_ipc.so
+/home/vm/catkin_ws/devel/.private/ecl_ipc/lib/pkgconfig/ecl_ipc.pc /home/vm/catkin_ws/devel/lib/pkgconfig/ecl_ipc.pc

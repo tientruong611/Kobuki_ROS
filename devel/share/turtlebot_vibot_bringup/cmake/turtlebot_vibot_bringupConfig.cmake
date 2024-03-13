@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/turtlebot_vibot_bringup/share/turtlebot_vibot_bringup/cmake/turtlebot_vibot_bringupConfig.cmake

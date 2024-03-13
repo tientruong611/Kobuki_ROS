@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/kobuki_ftdi/share/kobuki_ftdi/cmake/kobuki_ftdiConfig.cmake

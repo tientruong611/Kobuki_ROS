@@ -1,0 +1,2 @@
+ecl_lite/ecl_lite
+/home/vm/catkin_ws/devel/.private/ecl_lite/cmake.lock /home/vm/catkin_ws/devel/./cmake.lock

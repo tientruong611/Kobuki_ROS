@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/ecl_type_traits/share/ecl_type_traits/cmake/ecl_type_traitsConfig.cmake

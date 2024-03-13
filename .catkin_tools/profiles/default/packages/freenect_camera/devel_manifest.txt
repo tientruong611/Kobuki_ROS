@@ -1,0 +1,14 @@
+freenect_stack/freenect_camera
+/home/vm/catkin_ws/devel/.private/freenect_camera/cmake.lock /home/vm/catkin_ws/devel/./cmake.lock
+/home/vm/catkin_ws/devel/.private/freenect_camera/share/freenect_camera/cmake/freenect_cameraConfig.cmake /home/vm/catkin_ws/devel/share/freenect_camera/cmake/freenect_cameraConfig.cmake
+/home/vm/catkin_ws/devel/.private/freenect_camera/share/freenect_camera/cmake/freenect_cameraConfig-version.cmake /home/vm/catkin_ws/devel/share/freenect_camera/cmake/freenect_cameraConfig-version.cmake
+/home/vm/catkin_ws/devel/.private/freenect_camera/share/freenect_camera/docs/FreenectConfig-usage.dox /home/vm/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig-usage.dox
+/home/vm/catkin_ws/devel/.private/freenect_camera/share/freenect_camera/docs/FreenectConfig.dox /home/vm/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig.dox
+/home/vm/catkin_ws/devel/.private/freenect_camera/share/freenect_camera/docs/FreenectConfig.wikidoc /home/vm/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig.wikidoc
+/home/vm/catkin_ws/devel/.private/freenect_camera/lib/libfreenect_nodelet.so /home/vm/catkin_ws/devel/lib/libfreenect_nodelet.so
+/home/vm/catkin_ws/devel/.private/freenect_camera/lib/python3/dist-packages/freenect_camera/__init__.py /home/vm/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/__init__.py
+/home/vm/catkin_ws/devel/.private/freenect_camera/lib/python3/dist-packages/freenect_camera/cfg/__init__.py /home/vm/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/cfg/__init__.py
+/home/vm/catkin_ws/devel/.private/freenect_camera/lib/python3/dist-packages/freenect_camera/cfg/FreenectConfig.py /home/vm/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/cfg/FreenectConfig.py
+/home/vm/catkin_ws/devel/.private/freenect_camera/lib/pkgconfig/freenect_camera.pc /home/vm/catkin_ws/devel/lib/pkgconfig/freenect_camera.pc
+/home/vm/catkin_ws/devel/.private/freenect_camera/lib/freenect_camera/freenect_node /home/vm/catkin_ws/devel/lib/freenect_camera/freenect_node
+/home/vm/catkin_ws/devel/.private/freenect_camera/include/freenect_camera/FreenectConfig.h /home/vm/catkin_ws/devel/include/freenect_camera/FreenectConfig.h

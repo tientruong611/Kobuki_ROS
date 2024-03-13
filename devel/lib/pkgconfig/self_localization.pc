@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/self_localization/lib/pkgconfig/self_localization.pc

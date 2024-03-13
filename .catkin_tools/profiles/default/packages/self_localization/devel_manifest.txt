@@ -1,0 +1,5 @@
+self_localization
+/home/vm/catkin_ws/devel/.private/self_localization/cmake.lock /home/vm/catkin_ws/devel/./cmake.lock
+/home/vm/catkin_ws/devel/.private/self_localization/share/self_localization/cmake/self_localizationConfig-version.cmake /home/vm/catkin_ws/devel/share/self_localization/cmake/self_localizationConfig-version.cmake
+/home/vm/catkin_ws/devel/.private/self_localization/share/self_localization/cmake/self_localizationConfig.cmake /home/vm/catkin_ws/devel/share/self_localization/cmake/self_localizationConfig.cmake
+/home/vm/catkin_ws/devel/.private/self_localization/lib/pkgconfig/self_localization.pc /home/vm/catkin_ws/devel/lib/pkgconfig/self_localization.pc

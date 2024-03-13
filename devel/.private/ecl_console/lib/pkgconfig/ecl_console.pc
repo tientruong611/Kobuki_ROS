@@ -1,0 +1,8 @@
+prefix=/home/vm/catkin_ws/devel/.private/ecl_console
+
+Name: ecl_console
+Description: Description of ecl_console
+Version: 0.61.6
+Cflags: -I/home/vm/catkin_ws/src/ecl_lite/ecl_console/include
+Libs: -L${prefix}/lib 
+Requires: ecl_build ecl_config

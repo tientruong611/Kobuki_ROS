@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+64cabb86a834c0abca24d86af4a92a54 /home/vm/catkin_ws/devel/.private/freenect_camera/include/freenect_camera/FreenectConfig.h
+ee812101eb33a3ea64ec68c8aab651d3 CMakeFiles/clean_test_results
+d178d846a53b960d759293af5e4b4e21 CMakeFiles/freenect_camera_gencfg

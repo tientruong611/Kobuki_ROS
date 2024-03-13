@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/ecl_sigslots_lite/share/ecl_sigslots_lite/cmake/ecl_sigslots_liteConfig.cmake

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vm/catkin_ws/devel/.private/self_localization/setup.sh

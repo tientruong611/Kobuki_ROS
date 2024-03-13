@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/laptop_battery_monitor/lib/pkgconfig/laptop_battery_monitor.pc

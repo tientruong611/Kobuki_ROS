@@ -1,0 +1,5 @@
+MSCV2_RoboticsProject/my_package_turtlebot
+/home/vm/catkin_ws/devel/.private/my_package_turtlebot/cmake.lock /home/vm/catkin_ws/devel/./cmake.lock
+/home/vm/catkin_ws/devel/.private/my_package_turtlebot/share/my_package_turtlebot/cmake/my_package_turtlebotConfig.cmake /home/vm/catkin_ws/devel/share/my_package_turtlebot/cmake/my_package_turtlebotConfig.cmake
+/home/vm/catkin_ws/devel/.private/my_package_turtlebot/share/my_package_turtlebot/cmake/my_package_turtlebotConfig-version.cmake /home/vm/catkin_ws/devel/share/my_package_turtlebot/cmake/my_package_turtlebotConfig-version.cmake
+/home/vm/catkin_ws/devel/.private/my_package_turtlebot/lib/pkgconfig/my_package_turtlebot.pc /home/vm/catkin_ws/devel/lib/pkgconfig/my_package_turtlebot.pc

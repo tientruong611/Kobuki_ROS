@@ -1,0 +1,7 @@
+ecl_core/ecl_devices
+/home/vm/catkin_ws/devel/.private/ecl_devices/cmake.lock /home/vm/catkin_ws/devel/./cmake.lock
+/home/vm/catkin_ws/devel/.private/ecl_devices/share/ecl_devices/cmake/ecl_devicesConfig-version.cmake /home/vm/catkin_ws/devel/share/ecl_devices/cmake/ecl_devicesConfig-version.cmake
+/home/vm/catkin_ws/devel/.private/ecl_devices/share/ecl_devices/cmake/ecl_devicesConfig.cmake /home/vm/catkin_ws/devel/share/ecl_devices/cmake/ecl_devicesConfig.cmake
+/home/vm/catkin_ws/devel/.private/ecl_devices/lib/libecl_devices.so /home/vm/catkin_ws/devel/lib/libecl_devices.so
+/home/vm/catkin_ws/devel/.private/ecl_devices/lib/pkgconfig/ecl_devices.pc /home/vm/catkin_ws/devel/lib/pkgconfig/ecl_devices.pc
+/home/vm/catkin_ws/devel/.private/ecl_devices/lib/ecl_devices/demo_serial_timeouts /home/vm/catkin_ws/devel/lib/ecl_devices/demo_serial_timeouts

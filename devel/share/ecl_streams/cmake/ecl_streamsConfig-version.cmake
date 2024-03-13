@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/ecl_streams/share/ecl_streams/cmake/ecl_streamsConfig-version.cmake

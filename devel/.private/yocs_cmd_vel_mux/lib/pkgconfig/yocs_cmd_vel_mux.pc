@@ -1,0 +1,8 @@
+prefix=/home/vm/catkin_ws/devel/.private/yocs_cmd_vel_mux
+
+Name: yocs_cmd_vel_mux
+Description: Description of yocs_cmd_vel_mux
+Version: 0.12.1
+Cflags: -I/home/vm/catkin_ws/devel/.private/yocs_cmd_vel_mux/include -I/home/vm/catkin_ws/src/yocs_cmd_vel_mux/include
+Libs: -L${prefix}/lib -lyocs_cmd_vel_mux_nodelet -lyaml-cpp
+Requires: roscpp pluginlib nodelet dynamic_reconfigure geometry_msgs

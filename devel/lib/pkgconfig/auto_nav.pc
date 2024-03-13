@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/auto_nav/lib/pkgconfig/auto_nav.pc

@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/ecl_ipc/share/ecl_ipc/cmake/ecl_ipcConfig.cmake

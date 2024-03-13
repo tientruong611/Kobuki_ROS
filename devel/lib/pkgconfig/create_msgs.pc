@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/create_msgs/lib/pkgconfig/create_msgs.pc

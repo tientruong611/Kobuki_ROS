@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/turtlebot_stdr/lib/pkgconfig/turtlebot_stdr.pc

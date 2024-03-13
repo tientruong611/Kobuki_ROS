@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/ecl_math/lib/pkgconfig/ecl_math.pc

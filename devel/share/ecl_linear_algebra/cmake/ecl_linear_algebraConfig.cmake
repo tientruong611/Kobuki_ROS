@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/ecl_linear_algebra/share/ecl_linear_algebra/cmake/ecl_linear_algebraConfig.cmake

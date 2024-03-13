@@ -1,0 +1,4 @@
+Symlinking /home/vm/catkin_ws/devel/share/kobuki_tf/cmake/kobuki_tfConfig.cmake
+Symlinking /home/vm/catkin_ws/devel/share/kobuki_tf/cmake/kobuki_tfConfig-version.cmake
+Symlinking /home/vm/catkin_ws/devel/lib/pkgconfig/kobuki_tf.pc
+Symlinking /home/vm/catkin_ws/devel/lib/kobuki_tf/kobuki_tf

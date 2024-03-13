@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/ecl_eigen/lib/pkgconfig/ecl_eigen.pc

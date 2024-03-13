@@ -1,0 +1,2 @@
+turtlebot_interactions/turtlebot_interactions
+/home/vm/catkin_ws/devel/.private/turtlebot_interactions/cmake.lock /home/vm/catkin_ws/devel/./cmake.lock

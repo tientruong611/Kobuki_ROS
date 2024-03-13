@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/ecl_command_line/lib/pkgconfig/ecl_command_line.pc

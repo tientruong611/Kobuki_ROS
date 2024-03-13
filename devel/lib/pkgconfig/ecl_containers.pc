@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/ecl_containers/lib/pkgconfig/ecl_containers.pc

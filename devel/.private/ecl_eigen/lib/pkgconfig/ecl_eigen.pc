@@ -1,0 +1,8 @@
+prefix=/home/vm/catkin_ws/devel/.private/ecl_eigen
+
+Name: ecl_eigen
+Description: Description of ecl_eigen
+Version: 0.62.3
+Cflags: -I/home/vm/catkin_ws/src/ecl_core/ecl_eigen/include -I/home/vm/catkin_ws/devel/.private/ecl_eigen/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: 

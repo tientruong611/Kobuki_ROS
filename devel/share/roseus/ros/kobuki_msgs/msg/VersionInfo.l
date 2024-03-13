@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/kobuki_msgs/share/roseus/ros/kobuki_msgs/msg/VersionInfo.l

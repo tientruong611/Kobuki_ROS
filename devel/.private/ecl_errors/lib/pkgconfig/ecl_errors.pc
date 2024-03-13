@@ -1,0 +1,8 @@
+prefix=/home/vm/catkin_ws/devel/.private/ecl_errors
+
+Name: ecl_errors
+Description: Description of ecl_errors
+Version: 0.61.6
+Cflags: -I/home/vm/catkin_ws/src/ecl_lite/ecl_errors/include
+Libs: -L${prefix}/lib -lecl_errors
+Requires: 

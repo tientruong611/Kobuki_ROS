@@ -1,0 +1,6 @@
+oroca-ros-pkg/kobuki_tf
+/home/vm/catkin_ws/devel/.private/kobuki_tf/cmake.lock /home/vm/catkin_ws/devel/./cmake.lock
+/home/vm/catkin_ws/devel/.private/kobuki_tf/share/kobuki_tf/cmake/kobuki_tfConfig.cmake /home/vm/catkin_ws/devel/share/kobuki_tf/cmake/kobuki_tfConfig.cmake
+/home/vm/catkin_ws/devel/.private/kobuki_tf/share/kobuki_tf/cmake/kobuki_tfConfig-version.cmake /home/vm/catkin_ws/devel/share/kobuki_tf/cmake/kobuki_tfConfig-version.cmake
+/home/vm/catkin_ws/devel/.private/kobuki_tf/lib/pkgconfig/kobuki_tf.pc /home/vm/catkin_ws/devel/lib/pkgconfig/kobuki_tf.pc
+/home/vm/catkin_ws/devel/.private/kobuki_tf/lib/kobuki_tf/kobuki_tf /home/vm/catkin_ws/devel/lib/kobuki_tf/kobuki_tf

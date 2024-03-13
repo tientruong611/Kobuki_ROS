@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/turtlebot_actions/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveActionGoal.js

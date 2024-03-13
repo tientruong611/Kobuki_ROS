@@ -1,0 +1,3 @@
+Symlinking /home/vm/catkin_ws/devel/share/self_localization/cmake/self_localizationConfig-version.cmake
+Symlinking /home/vm/catkin_ws/devel/share/self_localization/cmake/self_localizationConfig.cmake
+Symlinking /home/vm/catkin_ws/devel/lib/pkgconfig/self_localization.pc

@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/yocs_msgs/share/yocs_msgs/cmake/yocs_msgs-msg-extras.cmake

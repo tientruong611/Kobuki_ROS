@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/kobuki_msgs/share/kobuki_msgs/msg/AutoDockingResult.msg

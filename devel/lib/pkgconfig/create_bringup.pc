@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/create_bringup/lib/pkgconfig/create_bringup.pc

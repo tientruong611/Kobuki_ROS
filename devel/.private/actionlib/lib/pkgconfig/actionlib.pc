@@ -1,0 +1,8 @@
+prefix=/home/vm/catkin_ws/devel/.private/actionlib
+
+Name: actionlib
+Description: Description of actionlib
+Version: 1.14.0
+Cflags: -I/home/vm/catkin_ws/devel/.private/actionlib/include -I/home/vm/catkin_ws/src/MSCV2/actionlib/actionlib/include -I/usr/include
+Libs: -L${prefix}/lib -lactionlib /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+Requires: actionlib_msgs message_runtime roscpp std_msgs

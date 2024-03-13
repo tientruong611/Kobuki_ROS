@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/msg/FindFiducialAction.msg

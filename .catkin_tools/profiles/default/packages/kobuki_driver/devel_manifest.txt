@@ -1,0 +1,12 @@
+kobuki_core/kobuki_driver
+/home/vm/catkin_ws/devel/.private/kobuki_driver/cmake.lock /home/vm/catkin_ws/devel/./cmake.lock
+/home/vm/catkin_ws/devel/.private/kobuki_driver/share/kobuki_driver/cmake/kobuki_driverConfig.cmake /home/vm/catkin_ws/devel/share/kobuki_driver/cmake/kobuki_driverConfig.cmake
+/home/vm/catkin_ws/devel/.private/kobuki_driver/share/kobuki_driver/cmake/kobuki_driverConfig-version.cmake /home/vm/catkin_ws/devel/share/kobuki_driver/cmake/kobuki_driverConfig-version.cmake
+/home/vm/catkin_ws/devel/.private/kobuki_driver/lib/libkobuki.so /home/vm/catkin_ws/devel/lib/libkobuki.so
+/home/vm/catkin_ws/devel/.private/kobuki_driver/lib/kobuki_driver/demo_kobuki_simple_loop /home/vm/catkin_ws/devel/lib/kobuki_driver/demo_kobuki_simple_loop
+/home/vm/catkin_ws/devel/.private/kobuki_driver/lib/kobuki_driver/simple_keyop /home/vm/catkin_ws/devel/lib/kobuki_driver/simple_keyop
+/home/vm/catkin_ws/devel/.private/kobuki_driver/lib/kobuki_driver/version_info /home/vm/catkin_ws/devel/lib/kobuki_driver/version_info
+/home/vm/catkin_ws/devel/.private/kobuki_driver/lib/kobuki_driver/demo_kobuki_sigslots /home/vm/catkin_ws/devel/lib/kobuki_driver/demo_kobuki_sigslots
+/home/vm/catkin_ws/devel/.private/kobuki_driver/lib/kobuki_driver/kobuki_velocity_commands /home/vm/catkin_ws/devel/lib/kobuki_driver/kobuki_velocity_commands
+/home/vm/catkin_ws/devel/.private/kobuki_driver/lib/kobuki_driver/demo_kobuki_initialisation /home/vm/catkin_ws/devel/lib/kobuki_driver/demo_kobuki_initialisation
+/home/vm/catkin_ws/devel/.private/kobuki_driver/lib/pkgconfig/kobuki_driver.pc /home/vm/catkin_ws/devel/lib/pkgconfig/kobuki_driver.pc

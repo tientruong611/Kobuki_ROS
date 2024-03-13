@@ -1,0 +1,8 @@
+prefix=/home/vm/catkin_ws/devel/.private/ecl_config
+
+Name: ecl_config
+Description: Description of ecl_config
+Version: 0.61.6
+Cflags: -I/home/vm/catkin_ws/src/ecl_lite/ecl_config/include -I/home/vm/catkin_ws/devel/.private/ecl_config/include
+Libs: -L${prefix}/lib 
+Requires: 

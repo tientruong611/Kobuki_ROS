@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/kobuki_tf/share/kobuki_tf/cmake/kobuki_tfConfig-version.cmake

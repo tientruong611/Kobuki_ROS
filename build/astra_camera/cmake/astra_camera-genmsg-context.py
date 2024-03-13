@@ -1,0 +1,11 @@
+# generated from genmsg/cmake/pkg-genmsg.context.in
+
+messages_str = ""
+services_str = "/home/vm/catkin_ws/src/ros_astra_camera/srv/GetSerial.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/GetDeviceType.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/GetIRGain.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/GetCameraInfo.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/GetUVCExposure.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/GetIRExposure.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/GetUVCGain.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/GetUVCWhiteBalance.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/SetUVCWhiteBalance.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/SetUVCGain.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/SetIRExposure.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/SetIRGain.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/SetIRFlood.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/SetLaser.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/SetLDP.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/SetFan.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/SetUVCExposure.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/ResetIRGain.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/ResetIRExposure.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/SwitchIRCamera.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/SetDistortioncal.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/SetAeEnable.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/GetVersion.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/SetAutoExposure.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/SetAutoWhiteBalance.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/SetMirror.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/SetUVCMirror.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/GetUVCMirror.srv;/home/vm/catkin_ws/src/ros_astra_camera/srv/GetCameraParams.srv"
+pkg_name = "astra_camera"
+dependencies_str = "std_msgs;sensor_msgs"
+langs = "gencpp;geneus;genlisp;gennodejs;genpy"
+dep_include_paths_str = "std_msgs;/opt/ros/noetic/share/std_msgs/cmake/../msg;sensor_msgs;/opt/ros/noetic/share/sensor_msgs/cmake/../msg;geometry_msgs;/opt/ros/noetic/share/geometry_msgs/cmake/../msg"
+PYTHON_EXECUTABLE = "/usr/bin/python3"
+package_has_static_sources = '' == 'TRUE'
+genmsg_check_deps_script = "/opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py"

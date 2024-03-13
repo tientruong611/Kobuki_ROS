@@ -1,0 +1,1 @@
+/home/vm/catkin_ws/devel/.private/freenect_camera/share/freenect_camera/cmake/freenect_cameraConfig.cmake

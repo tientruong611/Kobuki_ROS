@@ -1,0 +1,6 @@
+kobuki/kobuki_random_walker
+/home/vm/catkin_ws/devel/.private/kobuki_random_walker/cmake.lock /home/vm/catkin_ws/devel/./cmake.lock
+/home/vm/catkin_ws/devel/.private/kobuki_random_walker/share/kobuki_random_walker/cmake/kobuki_random_walkerConfig-version.cmake /home/vm/catkin_ws/devel/share/kobuki_random_walker/cmake/kobuki_random_walkerConfig-version.cmake
+/home/vm/catkin_ws/devel/.private/kobuki_random_walker/share/kobuki_random_walker/cmake/kobuki_random_walkerConfig.cmake /home/vm/catkin_ws/devel/share/kobuki_random_walker/cmake/kobuki_random_walkerConfig.cmake
+/home/vm/catkin_ws/devel/.private/kobuki_random_walker/lib/libkobuki_random_walker_nodelet.so /home/vm/catkin_ws/devel/lib/libkobuki_random_walker_nodelet.so
+/home/vm/catkin_ws/devel/.private/kobuki_random_walker/lib/pkgconfig/kobuki_random_walker.pc /home/vm/catkin_ws/devel/lib/pkgconfig/kobuki_random_walker.pc
